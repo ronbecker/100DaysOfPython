@@ -14,4 +14,4 @@
 
 **Thoughts:** It was kind of a pain to find any central or current docs. It was also hard to find answers to a few of my questions. But, all in all it worked fiarly well, and easy. I still need to work on the `sudo` stuff, and making it not so basic and ugly.
 
-**Link to Work:**
+**Link to Work:** [CleanJaroGUI](https://github.com/ronbecker/100DaysOfPython/tree/master/projects/cleanjaro-gui)
