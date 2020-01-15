@@ -2,7 +2,7 @@
 
 ### Day 0: January 13, 2020
 
-**Today's Progress**: Created a program to scrape top entries of a subreddit using PRAW.
+**Today's Progress:** Created a program to scrape top entries of a subreddit using PRAW.
 
 **Thoughts:** It wasn't nearly as complicated as many people's writing made it look. The hardest part was looking through the overly complicated writing some people had on it.
 
@@ -10,8 +10,8 @@
 
 ### Day 1: January 14, 2020
 
-**Today's Progress**
+**Today's Progress:** Created a GUI with PyQt5 for my CleanJaro program/script.
 
-**Thoughts**
+**Thoughts:** It was kind of a pain to find any central or current docs. It was also hard to find answers to a few of my questions. But, all in all it worked fiarly well, and easy. I still need to work on the `sudo` stuff, and making it not so basic and ugly.
 
-**Link to Work** 
+**Link to Work:**
