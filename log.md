@@ -15,3 +15,19 @@
 **Thoughts:** It was kind of a pain to find any central or current docs. It was also hard to find answers to a few of my questions. But, all in all it worked fiarly well, and easy. I still need to work on the `sudo` stuff, and making it not so basic and ugly.
 
 **Link to Work:** [CleanJaroGUI](https://github.com/ronbecker/100DaysOfPython/tree/master/projects/cleanjaro-gui)
+
+### Day 3: January 15, 2020
+
+**Today's Progress:** Worked on `journ` - command line journal
+
+**Thoughts:** I was studying when I realized I was using a lot of `+` to format strings in situations I didn't need to. So I took the opportunity to clean it up a little, and rewrite some comments.
+
+**Link to Work:** [journ](https://github.com/ronbecker/journ)/[journ on pypi.org](https://pypi.org/project/journ)
+
+### Day 4: January 16, 2020
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to Work:**
