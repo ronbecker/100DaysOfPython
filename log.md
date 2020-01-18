@@ -32,7 +32,7 @@
 
 **Link to Work:** [GLORP](https://github.com/ronbecker/100DaysOfPython/tree/master/projects/glorp)
 
-### Day 4: January 16, 2020
+### Day 5: January 17, 2020
 
 **Today's Progress:** Worked on GLORP some more. I actually started from scratch.
 
