@@ -26,8 +26,16 @@
 
 ### Day 4: January 16, 2020
 
-**Today's Progress:**
+**Today's Progress:** Began work on GLORP. Mostly built an intro outline, and tried to work on planning out programs before I start writing them. Which is kind of harder than it sounds.
 
-**Thoughts:**
+**Thoughts:** I need to work on writing pseudo code, and planning out projects. That's not exactly a strong point of mine.
 
-**Link to Work:**
+**Link to Work:** [GLORP](https://github.com/ronbecker/100DaysOfPython/tree/master/projects/glorp)
+
+### Day 4: January 16, 2020
+
+**Today's Progress:** Worked on GLORP some more. I actually started from scratch.
+
+**Thoughts:** Most of my time was spent playing with loops, and switching between them. Loops are one of those things that aren't a difficult concept, but they like to screw with me, apparently.
+
+**Link to Work:** [GLORP](https://github.com/ronbecker/100DaysOfPython/tree/master/projects/glorp)
