@@ -39,3 +39,11 @@
 **Thoughts:** Most of my time was spent playing with loops, and switching between them. Loops are one of those things that aren't a difficult concept, but they like to screw with me, apparently.
 
 **Link to Work:** [GLORP](https://github.com/ronbecker/100DaysOfPython/tree/master/projects/glorp)
+
+### Day 6: January 19, 2020
+
+***Today's Progress:*** Studied a little, and helped a friend learn some Python basics.
+
+***Thoughts:*** I didn't get to work on a project today, but I did learn some things. One of those things was that helping others learn reinforces things in my mind even more!
+
+***Link to Work:*** There isn't one since I didn't work on a project myself.
